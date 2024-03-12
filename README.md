@@ -1,7 +1,8 @@
 # Voice-Cloning-and-Speech-Synthesis-Application
 A python application it takes an audio file and clone it and synthesize a speech from it.
 ## Project Description:
-The Voice Cloning and Speech Synthesis Application is a Python program designed to clone a voice from an input audio file and synthesize speech from it. The application provides a user-friendly interface for users to interact with.
+The Voice Cloning and Speech Synthesis Application is a Python program designed to clone a voice from an input audio file and synthesize speech from it.
+<> The application provides a user-friendly interface for users to interact with.
 
 ## Key Features:
 
