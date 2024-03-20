@@ -11,8 +11,7 @@ The Voice Cloning and Speech Synthesis Application is a Python program designed 
   
 - User Interface: The application features a graphical user interface (GUI) built using the Tkinter library, providing a seamless experience for users to interact with the program.
 
-- File Selection: Users can browse their system to select the input audio file for voice cloning. Additionally, they can specify the text they wish to synthesize and the output file name for the synthesized speech.
-<!--- 
+- File Selection: Users can browse their system to select the input audio file for voice cloning.<!---  Additionally, they can specify the text they wish to synthesize and the output file name for the synthesized speech.
 Error Handling: The application incorporates error handling mechanisms to guide users in case of invalid input or unexpected errors during voice cloning and speech synthesis processes.
 
 Accessibility: The application is designed to be accessible and user-friendly, catering to users with varying levels of technical expertise.
